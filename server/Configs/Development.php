@@ -1,8 +1,8 @@
 <?php
 
 $config['Database'] = [
-    'host' => 'localhost',
+    'host' => 'http://picks.keencon.party:9001',
     'name' => 'qrindrv3',
-    'user' => 'root',
-    'pass' => '',
+    'user' => 'keenconpicksuser',
+    'pass' => 'WQ8p04S12XtHWLrq',
 ];
