@@ -28,16 +28,6 @@ class Home extends Component {
             key: 'quake',
             name: 'Quake Champions',
             url: 'https://quake.com/',
-        },
-        {
-            key: 'diabotical',
-            name: 'Diabotical',
-            url: 'https://diabotical.com',
-        },
-        {
-            key: 'csgo',
-            name: 'Counter-Strike: Global Offensive',
-            url: 'https://counter-strike.net'
         }
     ];
 
